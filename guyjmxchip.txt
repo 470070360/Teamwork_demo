@@ -1,0 +1,6 @@
+I have two github accounts, one of them is named 470070360
+the other one is named guyjmxchip.
+I created a repository in 470070360, so 470070360 is the manager.
+I git cloned the 470070360 repository, with the account guyjmxchip, 
+and I do not create any branchs, and I create a txt file , and I propose a
+merge request in guyjmxchip.
